@@ -67,6 +67,13 @@ Y si queremos verificar más podremos revisar en el log de la aplicación que se
 
 <img width="305" alt="Screenshot 2023-09-01 at 4 44 20 PM" src="https://github.com/DanielOchoa1214/Lab3_AREP/assets/77862016/8d5500f9-def7-42b9-8d8c-e5fa12d8e986">
 
+Además lo probamos desde otro sistema operativo 
+
+![image](https://github.com/DanielOchoa1214/Lab3_AREP/assets/77862016/5fa11824-4a92-452f-ace7-ae44b1e783b1)
+
+![image](https://github.com/DanielOchoa1214/Lab3_AREP/assets/77862016/2d21fc12-7973-4e37-a995-4c53cf7aaa42)
+
+
 ## Documentacion
 
 Para visualizar la documentación del proyecto solo debes correr el siguiente comando desde el directorio raiz del proyecto 
